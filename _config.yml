@@ -8,9 +8,6 @@ url: "" #custom url to be used instead of GitHub repository
 email: jane.han.gr@dartmouth.edu #
 
 
-highlighter: rouge
-markdown: kramdown
-
 # Pagination
 paginate: 4
 permalink: /blog/:year/:title/
@@ -21,22 +18,6 @@ facebook: "#"
 twitter: "#"
 linkedin: "#"
 github: "https://github.com/han-jane"
-researchgate: "#"
-orcid: "#"
-
-highlighter: rouge
-markdown: kramdown
-
-# Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
-
-# Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: ""
 researchgate: "#"
 orcid: "#"
 
