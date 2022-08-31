@@ -3,7 +3,7 @@
 title: Jane Han
 description: PhD student | Dartmouth Cognitive Neuroscience | sin prisa sin pausa
 
-baseurl: /han-jane.github.io #name of GitHub repository
+baseurl: "https://han-jane.github.io/" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: jane.han.gr@dartmouth.edu #
 
@@ -36,7 +36,7 @@ paginate_path: /blog/page:num/
 facebook: "#"
 twitter: "#"
 linkedin: "#"
-github: "#"
+github: ""
 researchgate: "#"
 orcid: "#"
 
