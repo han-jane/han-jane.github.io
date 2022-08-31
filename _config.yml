@@ -1,12 +1,28 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Jane Han
+description: PhD student | Dartmouth Cognitive Neuroscience | sin prisa sin pausa
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /han-jane.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: jane.han.gr@dartmouth.edu #
 
+
+highlighter: rouge
+markdown: kramdown
+
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+# Social media links in footer
+facebook: "#"
+twitter: "#"
+linkedin: "#"
+github: "https://github.com/han-jane"
+researchgate: "#"
+orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
