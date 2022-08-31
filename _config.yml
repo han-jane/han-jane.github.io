@@ -17,7 +17,7 @@ paginate_path: /blog/page:num/
 facebook: "#"
 twitter: "#"
 linkedin: "#"
-github: "https://github.com/han-jane"
+github: "/han-jane"
 researchgate: "#"
 orcid: "#"
 
