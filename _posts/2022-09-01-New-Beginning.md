@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The New Beginning
+title: 🪴New Beginning
 ---
 
 Hello world 👋 I'm now starting my third year, hopefully 3 more years to go to wrap up my 5 year-PhD journey.
