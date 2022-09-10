@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Hello 👋 I'm [Jane Han](https://pbs.dartmouth.edu/people/jane-han){:target="_blank"}, a Cognitive Neuroscience PhD student.
+Hello 👋 I'm [Jane Han](https://github.com/han-jane/han-jane.github.io/edit/master/index.md){:target="_blank"}, a Cognitive Neuroscience PhD student.
 
 I am now in [Haxby Lab](https://sites.dartmouth.edu/haxbylab/), advised by Professor [James V. Haxby](https://scholar.google.com/citations?user=UH9yVLwAAAAJ&hl=en){:target="_blank"} at Psychological Brain Sciences, Dartmouth College. My current research interest is how we could understand and improve the learning process by using fMRI data using naturalistic stimuli and applying the hyperalignment method.
 
