@@ -17,9 +17,9 @@ paginate_path: /blog/page:num/
 #facebook: "#"
 twitter: "_jane_han_"
 linkedin: "jane-h-9a647289"
-github: "han-jane"
-researchgate: "Jane-Han-5"
-orcid: "0000-0002-7110-6502"
+#github: "han-jane"
+#researchgate: "Jane-Han-5"
+#orcid: "0000-0002-7110-6502"
 
 highlighter: rouge
 markdown: kramdown
