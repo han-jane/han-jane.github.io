@@ -14,12 +14,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
+#facebook: "#"
 twitter: "_jane_han_"
 linkedin: "jane-h-9a647289"
 github: "han-jane"
 researchgate: "Jane-Han-5"
-orcid: "#"
+#orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
