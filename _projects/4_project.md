@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Photography
-description: Photography portfolio
+title: Art & Photography
+description: Things I made & Photography portfolio
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
