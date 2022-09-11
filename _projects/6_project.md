@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writer
+title: Write
 description: Life as a writer
 ---
 
