@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project 6
-description: another project
+title: Writer
+description: Life as a writer
 ---
 
 EExample modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
