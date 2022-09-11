@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teaching
+title: Teach
 description: Teaching experience and resources
 ---
 
