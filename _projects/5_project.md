@@ -1,15 +1,18 @@
 ---
 layout: post
-title: Art
-description: things I made
+title: Teaching
+description: Teaching experience and resources
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
-H1 Header
+Teaching Assistance
 ============
 
-Paragraphs are separated by a blank line.
+Dartmouth
+------------
+
+Dartmouth Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
@@ -32,7 +35,7 @@ in chapters 12--14"). Three dots ... will be converted to an ellipsis.
 Unicode is supported. ☺
 
 
-H2 Header
+Sungkyunkwan
 ------------
 
 Here's a numbered list:
