@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Art & Photography
+title: Art
 description: Things I made & Photography portfolio
 ---
 
