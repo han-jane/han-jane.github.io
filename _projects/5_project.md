@@ -12,7 +12,7 @@ description: Teaching experience and resources
 
 #### PSYC023 Social Psychology (2022 Summer) #### 
 
-#### PSYC010 Experimental Design, Methodology, and Data Analysis Procedures (2021 Fall)#### 
+#### PSYC010 Experimental Design, Methodology, and Data Analysis Procedures (2021 Fall) #### 
 
 ### Sungkyunkwan University (N-Center) ###
 
