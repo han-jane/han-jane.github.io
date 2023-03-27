@@ -10,7 +10,7 @@ description: Teaching experience and resources
 
 #### PSYC060 Principles of Human Brain Mapping with fMRI (2022 Winter) #### 
 
-##### PSYC023 Social Psychology (2022 Summer) #### 
+#### PSYC023 Social Psychology (2022 Summer) #### 
 
 #### PSYC010 Experimental Design, Methodology, and Data Analysis Procedures (2021 Fall)#### 
 
