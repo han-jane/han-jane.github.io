@@ -8,6 +8,6 @@ Social Action Project
 ============
 with Dr.Sam Nastase 
 
-2023 CNS Poster
+2023 CNS Poster can be seen here
+https://twitter.com/_jane_han_/status/1639327099650490368?s=20
 
-![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&h=500&fit=crop "An exemplary image")
